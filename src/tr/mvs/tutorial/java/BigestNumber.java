@@ -1,7 +1,7 @@
 package tr.mvs.tutorial.java;
 
 import java.util.Scanner;
-// Mehmet Veysel Sekendiz 20195156004 //
+// Mehmet Veysel Sekendiz
 
 public class BigestNumber {
     public static void main(String[] args) {
