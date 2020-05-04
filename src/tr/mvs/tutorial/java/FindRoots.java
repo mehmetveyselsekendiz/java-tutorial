@@ -21,9 +21,9 @@ public class FindRoots {
             double root1 = (-b + Math.sqrt(delta)) / (2 * a);
             double root2 = (-b - Math.sqrt(delta)) / (2 * a);
 
-            System.out.println(root1 + ", " + root2 + " are roots");
+            System.out.println(root1 + ", " + root2 + " are roots.");
         } else {
-            System.out.println("This equation has no real roots");
+            System.out.println("This equation has no real roots.");
         }
     }
 }
